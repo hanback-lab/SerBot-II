@@ -1,5 +1,5 @@
 # AutoCar III G
-![](https://github.com/hanback-lab/AutoCar-IIIG/blob/main/AutoCar3.png)
+![](https://github.com/hanback-lab/SerBot-II/blob/main/SerBot%202.png)
 
 ## Product Features
 - AI and IoT Convergence Practice Equipment based on Autonomous Driving Vehicle Platform
@@ -37,4 +37,4 @@
 
 ## Support 
 
-[AIoT AutoCAR III G Pop library wiki](https://github.com/hanback-docs/AutoCar-IIIG/wiki)
+[AIoT SerBot II Pop library wiki](https://github.com/hanback-docs/AutoCar-IIIG/wiki)
