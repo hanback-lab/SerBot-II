@@ -1,8 +1,8 @@
-# AutoCar III G
+# SerBot II
 ![](https://github.com/hanback-lab/SerBot-II/blob/main/SerBot%202.png)
 
 ## Product Features
-- AI and IoT Convergence Practice Equipment based on Autonomous Driving Vehicle Platform
+- AI and IoT Convergence Practice Equipment based on Autonomous/Service Robotics Platform
 
 - Main Module, Edge Supercomputer Supporting All Popular AI Frameworks
 
@@ -14,7 +14,7 @@
 
 - Satisfies Software Package and Required Service Type based on ROS2 Development Environment
 
-- Supports Real Car-Like Driving Mechanism and Deep Learning-based Autonomous Driving Technology
+- Supports Real-Time mapping Algorithms and Deep Learning-based Autonomous Driving Technology
 
 - Adopts Large-Capacity Battery that Allows Practice while Charging
 
@@ -37,4 +37,4 @@
 
 ## Support 
 
-[AIoT SerBot II Pop library wiki](https://github.com/hanback-docs/AutoCar-IIIG/wiki)
+[AIoT SerBot II Pop library wiki](https://github.com/hanback-lab/SerBot-II/wiki)
