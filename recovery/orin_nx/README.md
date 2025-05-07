@@ -12,7 +12,7 @@ SerBot II 에 설치되어 있는 OS 는 Nvidia 의 Jetpack 기반으로 실습�
 - Jupmer Cable 
 
 ## 복구 절차 
-### 1. 하드웨어 연결 
+### 1. 복구 모드 진입
 Jumper Cable 을 Jetson 보드의 후면 하단에 연결합니다. Jetson 보드를 장비에서 별도로 분리하지 않아도 됩니다.(다음 그림 참조)
 ![](jumper.png)
 
