@@ -39,7 +39,11 @@ Ubuntu PC에 복구를 위한 필수 패키지를 설치합니다. 네트워크 
 복구에 필요한 파일시스템은 자사로 연락 주시면 다운로드 링크를 제공해 드립니다. 
 
 ### 3. 복구 환경 구성 및 복구 
+SerBot의 루트파일 시스템은 아래 링크에서 다운로드 받거나, 다운로드가 되지 않는 경우 자사에 별도연락 바랍니다. 
+- [SerBot II rootfs Link](http://hanback-nas.synology.me:5000/sharing/sEbjNOmFm)
+
 다음 명령에 따라 Jetson 에 설치할 BSP 를 설치합니다. 
+   
 - tar xf Jetson_Linux_R36.3.0_aarch64
 - sudo tar xvfj serbot-rootfs.tar.bz2 -C Linux_for_Tegra/rootfs/
 - cd Linux_for_Tegra/
