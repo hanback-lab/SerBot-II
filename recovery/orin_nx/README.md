@@ -33,6 +33,7 @@ Host PC에 NVIDIA에서 제공하는 드라이버 패키지(BSP)와 한백전자
 
 #### 1-3. 작업 디렉터리 구성 및 압축 해제
 ```sh
+cd ~
 tar xf jetson_linux_r36.3.0_aarch64.tbz2
 sudo tar xvfj serbot-rootfs.tar.bz2 -C Linux_for_Tegra/rootfs/
 ```
