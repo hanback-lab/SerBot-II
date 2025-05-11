@@ -6,7 +6,7 @@ SerBot II 는 NVIDIA JetPack 기반의 운영체제를 사용하며, 실습 및 
 ## 주의 사항 
 - 아래 복구 절차는 운영체제가 정상 부팅되지 않을 때 실행하는 것을 권장합니다.
 - 복구 작업은 Ubuntu 20.04 또는 22.04가 설치된 PC 또는 노트북에서만 지원됩니다.
-  - ※ WSL(Windows Subsystem for Linux)에서는 동작을 보장하지 않습니다.
+  - ※ 가상머신 또는 WSL(Windows Subsystem for Linux)에서는 동작을 보장하지 않습니다.
 - 복구 과정에서 SerBot II에 저장된 모든 데이터는 완전히 삭제됩니다.
   - 반드시 필요한 데이터는 사전에 백업해 주세요.
 
